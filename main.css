@@ -1,3 +1,7 @@
 body {
   background-color: darkseagreen;
 }
+
+.card {
+  margin: 15px 0px;
+}
